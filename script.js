@@ -286,7 +286,7 @@ gsap.from("#lower_part> h2,#social>#social_logo1, #social>#social_logo2,#social>
     stagger:0.3,
     scrollTrigger:{
         trigger:"#lower_part> h2,#social>#social_logo1, #social>#social_logo2,#social>#social_logo3,#social>#social_logo4, #social>#social_logo5",
-        start:"top 95%",
+        start:"top 115%",
         // end:"50%",
         //  scrub:1,
         // markers:true
@@ -301,7 +301,7 @@ gsap.from("#content> h3",{
     duration:1,
     scrollTrigger:{
         trigger:"#content> h3",
-        start:"top 95%",
+        start:"top 110%",
         // end:"50%",
         //  scrub:1,
         // markers:true
